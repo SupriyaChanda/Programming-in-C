@@ -1,0 +1,42 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+-------------------------------------------------------
+partition index is 6 lies inside the interval[6...8]
+The index 6 is not equal to 8 when the partition terminates.
+Every element of A[6...6] is less then or equal to every elements of A[7...8] when the partition terminates.
+-------------------------------------------------------
+partition index is 5 lies inside the interval[5...8]
+The index 5 is not equal to 8 when the partition terminates.
+Every element of A[5...5] is less then or equal to every elements of A[6...8] when the partition terminates.
+-------------------------------------------------------
+partition index is 8 lies inside the interval[5...9]
+The index 8 is not equal to 9 when the partition terminates.
+Every element of A[5...8] is less then or equal to every elements of A[9...9] when the partition terminates.
+-------------------------------------------------------
+partition index is 1 lies inside the interval[0...2]
+The index 1 is not equal to 2 when the partition terminates.
+Every element of A[0...1] is less then or equal to every elements of A[2...2] when the partition terminates.
+-------------------------------------------------------
+partition index is 2 lies inside the interval[0...3]
+The index 2 is not equal to 3 when the partition terminates.
+Every element of A[0...2] is less then or equal to every elements of A[3...3] when the partition terminates.
+-------------------------------------------------------
+partition index is 3 lies inside the interval[0...4]
+The index 3 is not equal to 4 when the partition terminates.
+Every element of A[0...3] is less then or equal to every elements of A[4...4] when the partition terminates.
+-------------------------------------------------------
+partition index is 4 lies inside the interval[0...9]
+The index 4 is not equal to 9 when the partition terminates.
+Every element of A[0...4] is less then or equal to every elements of A[5...9] when the partition terminates.
+-------------------------------------------------------
+partition index is 9 lies inside the interval[0...10]
+The index 9 is not equal to 10 when the partition terminates.
+Every element of A[0...9] is less then or equal to every elements of A[10...10] when the partition terminates.
